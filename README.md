@@ -1,7 +1,2 @@
-<div align="center">
+<img width="711" height="1600" alt="Portal Burguer" src="https://github.com/user-attachments/assets/e8bd5101-9e83-4d54-a76d-b22ba63c58b6" />
 
-<a href="">
-  <img src="https://img.shields.io/badge/♡%20Acessar%20site-F7A8C4?style=for-the-badge&logoColor=white" />
-</a>
-
-</div>

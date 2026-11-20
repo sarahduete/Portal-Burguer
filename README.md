@@ -38,10 +38,9 @@ Durante o processo, fui realizando ajustes na estrutura e no visual para deixar 
 
 <img width="711" height="1600" alt="PortalBurguer" src="https://github.com/user-attachments/assets/94ed1374-08f1-459a-afe2-5008a87af37d" />
 
-*Adicione uma captura de tela real do site na pasta `imagens`.*
 
 ## 📚 Aprendizados
 
 Com esse projeto, pratiquei a criação de páginas web, a organização de conteúdo e a construção de uma identidade visual. Também pude melhorar minha atenção aos detalhes de layout e apresentação dos elementos.
 
-<p align="center">Desenvolvido por <strong>Sarah Duete</strong> 💗</p>
+
